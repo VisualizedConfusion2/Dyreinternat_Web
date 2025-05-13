@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dyreinternat_Web", "Dyreinternat_Web\Dyreinternat_Web.csproj", "{23C072D8-8492-4E4B-B977-B1F4E0C2950B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C072D8-8492-4E4B-B977-B1F4E0C2950B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C072D8-8492-4E4B-B977-B1F4E0C2950B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C072D8-8492-4E4B-B977-B1F4E0C2950B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C072D8-8492-4E4B-B977-B1F4E0C2950B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6F5E63-E253-4A06-BBA5-18A8C300453B}
+	EndGlobalSection
+EndGlobal
