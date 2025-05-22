@@ -1,0 +1,16 @@
+@page
+@model Blogs.IndexModel
+@using Dyreinternat_Library.Models
+<h2>Blogs</h2>
+<table>
+<thead>
+    <tr><th>ID</th><th>Info</th></tr>
+</thead>
+<tbody>
+@foreach (var item in Model.Items)
+{
+    <tr><td>@item.GetHashCode()</td><td>@item.ToString()</td></tr>
+}
+</tbody>
+</table>
+<a href="/Blogs/Create">Opret ny</a>
